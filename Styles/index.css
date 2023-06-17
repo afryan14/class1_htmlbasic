@@ -2,6 +2,7 @@ img {
     width: 200px;
     height: 200px;
     object-fit: cover;
+    border: 2px solid #000;
 }
 a{
     color: black;
@@ -10,4 +11,33 @@ a{
     border: 2px solid #000;
     padding: 10px;
     text-decoration: none;
+    background-color: green;
+}
+
+.image-box {
+    border: 2px solid #000;
+    background-color: greenyellow;
+}
+
+p{
+  font-family: Arial, sans-serif;
+  font-size: 16px;
+  font-weight: bold;
+  font-style: italic;
+  color: #333333;
+}
+ol{
+    font-family: Arial, sans-serif;
+  font-size: 16px;
+  font-weight: bold;
+  font-style: italic;
+  color: #333333;
+}
+
+ul{
+    font-family: Arial, sans-serif;
+  font-size: 16px;
+  font-weight: bold;
+  font-style: italic;
+  color: #333333;
 }
